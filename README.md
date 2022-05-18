@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Coders-src/Wolf-Music">
-    <img src="[https://media.discordapp.net/attachments/876035356460462090/887728792926290091/20210820_124325.png](https://media.discordapp.net/attachments/967489232052564110/976494101346258944/unknown.png)" alt="Pbot-plus" width="200" height="200">
+    <img src="https://media.discordapp.net/attachments/967489232052564110/976494101346258944/unknown.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">lavamusic</h3>
