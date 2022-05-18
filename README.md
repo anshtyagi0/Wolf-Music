@@ -1,4 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/brblacky/lavamusic)](https://repl.it/github.com/Coders-src/Wolf-Music)
+[![Run on Repl.it](https://repl.it/badge/github.com/Coders-src/Wolf-Music)](https://repl.it/github.com/Coders-src/Wolf-Music)
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github.com/Coders-src/Wolf-Music)
 
 
@@ -16,9 +16,9 @@
    <br />
     <br />
   .
-    <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
+    <a href="https://github.com/Coders-src/Wolf-Music/issues">Report Bug</a>
     ·
-    <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
+    <a href="https://github.com/Coders-src/Wolf-Music/issues">Request Feature</a>
   </p>
 </p>
 
