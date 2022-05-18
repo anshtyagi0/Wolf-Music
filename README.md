@@ -9,10 +9,10 @@
     <img src="https://media.discordapp.net/attachments/967489232052564110/976494101346258944/unknown.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">lavamusic</h3>
+  <h3 align="center">WOLF MUSIC</h3>
 
   <p align="center">
-    Lavamusic is  a powerful music Bot
+    WOLF MUSIC is an advance music bot
     <br />
     <br />
    
