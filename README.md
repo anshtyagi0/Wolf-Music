@@ -15,10 +15,11 @@
     WOLF MUSIC is an advance music bot
     <br />
     <br />
+  .
    
     <a href="https://github.com/brblacky/lavamusic/issues">Report Bug</a>
     ·
-  .
+ 
     <a href="https://github.com/brblacky/lavamusic/issues">Request Feature</a>
   </p>
 </p>
