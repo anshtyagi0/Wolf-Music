@@ -1,11 +1,11 @@
 module.exports = {
-  token: "OTcyMTk2MTgyMzg0MzM3MDM2.GSIyOR.7ofpeFS_XrZd0WAWP_3GTMjK56CMDw7pW_Byrc",
-  mongo: "mongodb+srv://Apera:6291@cluster0.7qkb4.mongodb.net/aperatest",
+  token: "",
+  mongo: "",
   prefix: ".",
   audionodes: [
     {
       identifier: "local",
-      host: "50.19.31.157",
+      host: "",
       port: 80,
       password: "coders",
     },
